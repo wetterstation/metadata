@@ -1,10 +1,10 @@
 # Visitenkarte für Wetterstationen
-Die digitale "Visitenkarte" für die Wetterstationen ist eine offene Schnittstelle, die es ermöglicht Informationen über Wetterstationen strukturiert zu beschreiben und weiterzugeben. Die Entwicklung fing zusammen mit der Erstellung der [Wetterstationen - Liste](http://wetterstationen.biz) an.
+Die digitale "Visitenkarte" für die Wetterstationen ist eine offene Schnittstelle, die es ermöglicht Informationen über Wetterstationen strukturiert zu beschreiben und weiterzugeben. Die Entwicklung fing zusammen mit der Erstellung der [Wetterstationen](http://wetterstationen.biz) - Liste an.
 
 ## Verwendung
 Die Verwendung ist recht einfach:
 
-- die Vorlage (template.xml) herunterladen
+- die Vorlage [template.xml](https://raw.githubusercontent.com/wetterstation/metadata/master/template.xml) herunterladen und lokal speichern
 - die xml-Datei mit einem einfachen Texteditor öffnen
 - Informationen, die man über die Wetterstation veröffentlichen will, in den entsprechenden Felder (wie in dieser Anleitung beschrieben) eintragen
 - die geänderte Datei lokal speichern
