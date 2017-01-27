@@ -1,5 +1,6 @@
 <station>
     <name></name>
+    <description></description>
     <position>
         <lat></lat>
         <lng></lng>
@@ -12,6 +13,16 @@
         <zipcode></zipcode>
         <area></area>
     </location>
+    <images>
+        <banner></banner>
+        <symbol></symbol>
+    </images>
+    <links>
+        <website></website>
+        <rss></rss>
+        <facebook></facebook>
+        <twitter></twitter>
+    </links>
     <contact>
         <name></name>
         <email></email>
