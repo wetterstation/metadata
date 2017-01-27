@@ -1,0 +1,20 @@
+<station>
+    <name></name>
+    <position>
+        <lat></lat>
+        <lng></lng>
+        <alt></alt>
+    </position>
+    <location>
+        <country></country>
+        <region></region>
+        <place></place>
+        <zipcode></zipcode>
+        <area></area>
+    </location>
+    <contact>
+        <name></name>
+        <email></email>
+        <ref></ref>
+    </contact>
+</station>
