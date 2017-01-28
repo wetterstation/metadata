@@ -15,7 +15,7 @@ Die Verwendung ist recht einfach:
 ```xml
 <station>
     <name>Erste Wetterstation aus Braunschweig</name>
-    <description>Hier findet man eine kurze Beschreibung der Station (max. 300 Buchstaben)</description>
+    <description>Hier findet man eine kurze Beschreibung der Station (max. 350 Buchstaben)</description>
     <position>
         <lat>52.269167</lat>
         <lng>10.521111</lng>
